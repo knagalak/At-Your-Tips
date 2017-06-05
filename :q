@@ -1,0 +1,31 @@
+Added Files
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   At Your Tips.xcodeproj/project.pbxproj
+#	new file:   At Your Tips.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	new file:   At Your Tips.xcodeproj/project.xcworkspace/xcuserdata/kavya1998.xcuserdatad/UserInterfaceState.xcuserstate
+#	new file:   At Your Tips.xcodeproj/xcuserdata/kavya1998.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+#	new file:   At Your Tips.xcodeproj/xcuserdata/kavya1998.xcuserdatad/xcschemes/At Your Tips.xcscheme
+#	new file:   At Your Tips.xcodeproj/xcuserdata/kavya1998.xcuserdatad/xcschemes/xcschememanagement.plist
+#	new file:   At Your Tips/AppDelegate.swift
+#	new file:   At Your Tips/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	new file:   At Your Tips/Assets.xcassets/Contents.json
+#	new file:   At Your Tips/Assets.xcassets/b25.imageset/Contents.json
+#	new file:   At Your Tips/Assets.xcassets/b25.imageset/b25.png
+#	new file:   At Your Tips/Assets.xcassets/bg 1.imageset/Contents.json
+#	new file:   At Your Tips/Assets.xcassets/bg 1.imageset/bg 1.jpg
+#	new file:   At Your Tips/Assets.xcassets/first.imageset/Contents.json
+#	new file:   At Your Tips/Assets.xcassets/first.imageset/first.pdf
+#	new file:   At Your Tips/Assets.xcassets/second.imageset/Contents.json
+#	new file:   At Your Tips/Assets.xcassets/second.imageset/second.pdf
+#	new file:   At Your Tips/Base.lproj/LaunchScreen.storyboard
+#	new file:   At Your Tips/Base.lproj/Main.storyboard
+#	new file:   At Your Tips/FirstViewController.swift
+#	new file:   At Your Tips/Info.plist
+#	new file:   At Your Tips/SecondViewController.swift
+#
